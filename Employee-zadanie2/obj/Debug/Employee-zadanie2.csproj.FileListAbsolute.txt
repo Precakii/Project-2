@@ -1,0 +1,2 @@
+C:\Users\Mr.Zarev\Desktop\Employee-zadanie2\Employee-zadanie2\obj\Debug\Employee-zadanie2.csprojAssemblyReference.cache
+C:\Users\Mr.Zarev\Desktop\Employee-zadanie2\Employee-zadanie2\obj\Debug\Employee-zadanie2.csproj.CoreCompileInputs.cache
